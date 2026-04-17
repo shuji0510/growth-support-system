@@ -1,0 +1,14 @@
+{
+  "name": "growth-support-system",
+  "version": "1.0.0",
+  "description": "障がい者就労継続支援B型 成長支援マネジメントシステム",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "sql.js": "^1.12.0",
+    "express": "^5.1.0"
+  }
+}
